@@ -10,7 +10,7 @@ const Home = () => {
         <span className="orange_gradient text-center"> AI-powered Prompts</span>
       </h1>
 
-      <p className="desc text-center">PromptDB is an open-source AI prompting tool for modern world to discover,reate and share creative prompts</p>
+      <p className="desc text-center">AI prompting tool for modern worlde creative prompts</p>
 
       <Feed />
     </section>
